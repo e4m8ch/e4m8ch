@@ -23,7 +23,7 @@
 <p align="center">🦦 Find me on 🦌</p>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/rui-de-andrade-e-costa-70a053253/">
+  <a href="https://www.linkedin.com/in/rui-a-costa/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
