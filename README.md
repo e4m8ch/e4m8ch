@@ -1,12 +1,12 @@
 # 
 
-<div align="center">  <img src="https://static.wikia.nocookie.net/bear-and-breakfast/images/0/08/Hank_icon.png" width=""/>  </div>
+<div align="center">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Floppy_icon.svg/100px-Floppy_icon.svg.png" width=""/>  </div>
 
-<h1 align="center" style="margin: 0 padding-bottom: 30px;">🌳 Rui Costa 🌲</h1>
+<h1 align="center" style="margin: 0 padding-bottom: 30px;"> Rui Costa </h1>
 
-<p align="center">🌌 Engineering Physics Student at IST  ☄️</p>
-<p align="center">☘️ Working with noisR for application development 🍀</p>
-<p align="center">🌻 Currently learning 🌷</p>
+<p align="center">⚡ Engineering Physics Student at IST  ⚡</p>
+<p align="center"> 📀 Working with noisR for product development 📀</p>
+<p align="center"> 📏 Currently learning 📐</p>
 <div align="center"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
@@ -24,10 +24,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
 </div>
 
-<p align="center">🦦 Find me on 🦌</p>
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/rui-a-costa/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+                                                                                
