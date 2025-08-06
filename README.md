@@ -1,7 +1,8 @@
 # 
 <h1 align="center" style="margin: 0 padding-bottom: 30px;"> 🍃 Rui Costa 🍃</h1>
 <p align="center">⚡ Electrical Engineering Master's Student at IST  ⚡</p>
-<p align="center"> 🔬 Bachelor's in Engineering Physics and Technology 🌞</p>
+<p align="center"> 🔬 Bachelor's in Engineering Physics and Technology 🔭 </p>
+<p align="center"> ♻️ Passionate about clean energy and emerging energy technologies 🌞</p>
 
 <p align="center">🧮 Programming Languages & Computational Tools 💻</p>
 <div align="center">
