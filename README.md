@@ -1,7 +1,8 @@
 # 🍃 Rui Costa 🍃
 
-⚡ Electrical Engineering Master's Student at IST ⚡  
-🔬 Bachelor's in Engineering Physics and Technology 🔭  
+⚡ Electrical Engineering Master's Student at IST ⚡
+🔬 Bachelor's in Engineering Physics and Technology 🔭
+🌌 Minor in Extreme Environments Engineering 🌊  
 ♻️ Passionate about clean energy and emerging energy technologies 🌞  
 
 ---
